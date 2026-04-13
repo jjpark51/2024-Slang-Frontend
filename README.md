@@ -51,6 +51,4 @@ https://github.com/airoca/Slang-Backend
 ![image](https://github.com/Capstone-Week-4/frontend/assets/68769481/d681027a-7abb-4d97-968f-d77e97af8dd3)
 
 
-### Features
-
 
